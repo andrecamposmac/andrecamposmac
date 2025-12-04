@@ -1,4 +1,4 @@
-![Texto alternativo][https://github.com/andrecamposmac/andrecamposmac/blob/main/Cart%C3%A3o_de_visitas.jpg]
+![Texto alternativo](https://github.com/andrecamposmac/andrecamposmac/blob/main/Cart%C3%A3o_de_visitas.jpg)
 
 **Cientista de Dados | Doutorando em Termodinâmica (UNIFESP) | Químico Industrial
 
