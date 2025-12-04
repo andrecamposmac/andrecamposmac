@@ -20,7 +20,7 @@ Professional Certifications in Data Science
 ** IBM Data Science Professional Certificate** (September/2023) | Coursera
 10 specialized courses - IBM Skills Network
 
-Experience with:
+** Experience with:
 Machine Learning & Deep Learning
 Scikit-learn - TensorFlow - Keras - XGBoost - LightGBM - LazyPredict - PyTorch - Neural Networks
 
@@ -33,16 +33,16 @@ Matplotlib - Seaborn - Plotly - Folium - Data Storytelling
 Computational Bioinformatics
 ChEMBL API - PaDEL-Descriptor - Molecular Fingerprints - RDKit - Cheminformatics
 
-Academic History Summary
+** Academic History Summary
 Education: PhD (in progress) + 13 specialized courses in data science (IBM + DeepLearning.AI)
 
-Contact
+** Contact
 Email: andrecamposmac@gmail.com
 LinkedIn: linkedin.com/in/andré-campos-machado
 Location: São Paulo, São Paulo, Brazil
 Languages: Portuguese (Native) - English (Fluent) - Spanish (Intermediate)
 
-Certificate Verification
+** Certificate Verification
 IBM Data Science Professional Certificate: coursera.org/verify/professional-cert/36TNZKTVR49C
 
 Machine Learning Specialization: coursera.org/verify/specialization/9G9RQCCJBHV4
