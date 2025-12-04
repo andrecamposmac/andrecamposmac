@@ -1,7 +1,5 @@
 ![Texto alternativo](https://github.com/andrecamposmac/andrecamposmac/blob/main/Banner_horizontal_estilo_cart%C3%A3o_de_visitas_para_perfil_GitHub_com_formato_panor%C3%A2mico.png)
-**Cientista de Dados | Doutorando em Termodinâmica (UNIFESP) | Químico Industrial | Machine Learning Specialist**
-
-Profissional multidisciplinar combinando **formação sólida em Química** com expertise avançada em **Machine Learning e Deep Learning**. Doutorando em Termodinâmica na UNIFESP, Mestre em Química (Ciência e Tecnologia da Sustentabilidade) e autor de 6 artigos científicos publicados em revistas Elsevier.
+**Cientista de Dados | Doutorando em Termodinâmica (UNIFESP) | Químico Industrial
 
 **Formação técnica certificada** em Data Science pela IBM e Machine Learning pela DeepLearning.AI (Andrew Ng), totalizando **13 cursos especializados** com projetos práticos e capstone projects.
 
@@ -35,18 +33,17 @@ Scikit-learn -  TensorFlow -  Keras -  XGBoost -  LightGBM -  LazyPredict -  PyT
 **Data Engineering & Analysis**  
 Python -  Pandas -  NumPy -  SQL -  Feature Engineering -  Data Augmentation -  StandardScaler
 
-**Bioinformática Computacional**  
-ChEMBL API -  PaDEL-Descriptor -  Molecular Fingerprints -  RDKit -  Cheminformatics
-
 **Visualização de Dados**  
 Matplotlib -  Seaborn -  Plotly -  Folium -  Data Storytelling
+
+**Bioinformática Computacional**  
+ChEMBL API -  PaDEL-Descriptor -  Molecular Fingerprints -  RDKit -  Cheminformatics
 
 ***
 
 ### Resumo do histórico acadêmico
 
 **Formação**: PhD (em andamento) + 13 cursos especializados (IBM + DeepLearning.AI)
-**Expertise Interdisciplinar**: Drug discovery, físico-química de interfaces e ML aplicado
 ***
 
 ###  Contato
