@@ -1,4 +1,5 @@
-![Texto alternativo][https://github.com/andrecamposmac/andrecamposmac/blob/main/Cart%C3%A3o_de_visitas.jpg](https://github.com/andrecamposmac/andrecamposmac/blob/main/Cart%C3%A3o_de_visitas.jpg)
+![Texto alternativo][https://github.com/andrecamposmac/andrecamposmac/blob/main/Cart%C3%A3o_de_visitas.jpg]
+
 **Cientista de Dados | Doutorando em Termodinâmica (UNIFESP) | Químico Industrial
 
 **Formação técnica certificada** em Data Science pela IBM e Machine Learning pela DeepLearning.AI (Andrew Ng), totalizando **13 cursos especializados** com projetos práticos e capstone projects.
