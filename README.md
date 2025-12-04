@@ -1,3 +1,4 @@
+![Texto alternativo](https://github.com/andrecamposmac/andrecamposmac/blob/main/Banner_horizontal_estilo_cart%C3%A3o_de_visitas_para_perfil_GitHub_com_formato_panor%C3%A2mico.png)
 **Cientista de Dados | Doutorando em Termodinâmica (UNIFESP) | Químico Industrial | Machine Learning Specialist**
 
 Profissional multidisciplinar combinando **formação sólida em Química** com expertise avançada em **Machine Learning e Deep Learning**. Doutorando em Termodinâmica na UNIFESP, Mestre em Química (Ciência e Tecnologia da Sustentabilidade) e autor de 6 artigos científicos publicados em revistas Elsevier.
