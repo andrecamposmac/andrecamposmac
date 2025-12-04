@@ -114,7 +114,7 @@ Matplotlib -  Seaborn -  Plotly -  Folium -  Data Storytelling
 
 ### Verificação de Certificados
 
- **IBM Data Science Professional Certificate**: [coursera.org/verify/professional-cert/36TNZKTVR49C](https://coursera.org/verify/professional-cert/36TNZKTVR49C)[3]
- **Machine Learning Specialization**: [coursera.org/verify/specialization/9G9RQCCJBHV4](https://coursera.org/verify/specialization/9G9RQCCJBHV4)[2]
+ **IBM Data Science Professional Certificate**: [coursera.org/verify/professional-cert/36TNZKTVR49C](https://coursera.org/verify/professional-cert/36TNZKTVR49C)
+ **Machine Learning Specialization**: [coursera.org/verify/specialization/9G9RQCCJBHV4](https://coursera.org/verify/specialization/9G9RQCCJBHV4)
 
 ***
