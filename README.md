@@ -1,65 +1,48 @@
 ![Texto alternativo](https://github.com/andrecamposmac/andrecamposmac/blob/main/Cart%C3%A3o_de_visitas.jpg)
 
-**Cientista de Dados | Doutorando em Termodinâmica (UNIFESP) | Químico Industrial
+**Data Scientist | PhD Candidate in Thermodynamics (UNIFESP) | Industrial Chemist
 
-**Formação técnica certificada** em Data Science pela IBM e Machine Learning pela DeepLearning.AI (Andrew Ng), totalizando **13 cursos especializados** com projetos práticos e capstone projects.
+Certified technical training in Data Science from IBM and Machine Learning from DeepLearning.AI (Andrew Ng), totaling 13 specialized courses with practical projects and capstone projects.
 
-***
+Academic Background
+** PhD in Chemistry** (2023 - present) | UNIFESP
+Research Area: Thermodynamics
+Research development in applied thermodynamics of monomolecular films.
 
-###  Formação Acadêmica
+** Master's in Chemistry** (2020 - 2022) | UNIFESP
+Science and Technology of Sustainability
+Dissertation: Total synthesis of natural products and evaluation in cell membrane models
 
-** Doutorado em Química** (2023 - presente) | UNIFESP  
-*Área de pesquisa: Termodinâmica*  
-Desenvolvimento de pesquisa em termodinâmica aplicada de filmes monomoleculares.
+** Bachelor's in Industrial Chemistry** (2014 - 2019) | UNIFESP
+Undergraduate Research: Organic synthesis (2016-2017) and Physical chemistry of interfaces (2018-2019)
 
-** Mestrado em Química** (2020 - 2022) | UNIFESP  
-*Ciência e Tecnologia da Sustentabilidade*  
-Dissertação: Síntese total de produtos naturais e avaliação em modelos de membrana celular
+Professional Certifications in Data Science
+** IBM Data Science Professional Certificate** (September/2023) | Coursera
+10 specialized courses - IBM Skills Network
 
-** Bacharel em Química Industrial** (2014 - 2019) | UNIFESP  
-Iniciação Científica: Síntese orgânica (2016-2017) e Físico-química de interfaces (2018-2019)
+Experience with:
+Machine Learning & Deep Learning
+Scikit-learn - TensorFlow - Keras - XGBoost - LightGBM - LazyPredict - PyTorch - Neural Networks
 
-***
+Data Engineering & Analysis
+Python - Pandas - NumPy - SQL - Feature Engineering - Data Augmentation - StandardScaler
 
-###  Certificações Profissionais em Data Science
+Data Visualization
+Matplotlib - Seaborn - Plotly - Folium - Data Storytelling
 
-** IBM Data Science Professional Certificate** (Setembro/2023) | Coursera  
-*10 cursos especializados - IBM Skills Network*
+Computational Bioinformatics
+ChEMBL API - PaDEL-Descriptor - Molecular Fingerprints - RDKit - Cheminformatics
 
-### Experiência com:
+Academic History Summary
+Education: PhD (in progress) + 13 specialized courses in data science (IBM + DeepLearning.AI)
 
-**Machine Learning & Deep Learning**  
-Scikit-learn -  TensorFlow -  Keras -  XGBoost -  LightGBM -  LazyPredict -  PyTorch -  Neural Networks
+Contact
+Email: andrecamposmac@gmail.com
+LinkedIn: linkedin.com/in/andré-campos-machado
+Location: São Paulo, São Paulo, Brazil
+Languages: Portuguese (Native) - English (Fluent) - Spanish (Intermediate)
 
-**Data Engineering & Analysis**  
-Python -  Pandas -  NumPy -  SQL -  Feature Engineering -  Data Augmentation -  StandardScaler
+Certificate Verification
+IBM Data Science Professional Certificate: coursera.org/verify/professional-cert/36TNZKTVR49C
 
-**Visualização de Dados**  
-Matplotlib -  Seaborn -  Plotly -  Folium -  Data Storytelling
-
-**Bioinformática Computacional**  
-ChEMBL API -  PaDEL-Descriptor -  Molecular Fingerprints -  RDKit -  Cheminformatics
-
-***
-
-### Resumo do histórico acadêmico
-
-**Formação**: PhD (em andamento) + 13 cursos especializados em ciência de dados (IBM + DeepLearning.AI)
-***
-
-###  Contato
-
-**Email**: andrecamposmac@gmail.com
-**LinkedIn**: [linkedin.com/in/andré-campos-machado](https://www.linkedin.com/in/andré-campos-machado-2b7a29aa/)
-**Localização**: São Paulo, São Paulo, Brasil
-**Idiomas**: Português (Nativo) -  Inglês (Fluente) - Espanhol (intermediário)
-
-***
-
-### Verificação de Certificados
-
- **IBM Data Science Professional Certificate**: [coursera.org/verify/professional-cert/36TNZKTVR49C](https://coursera.org/verify/professional-cert/36TNZKTVR49C)
- 
- **Machine Learning Specialization**: [coursera.org/verify/specialization/9G9RQCCJBHV4](https://coursera.org/verify/specialization/9G9RQCCJBHV4)
-
-***
+Machine Learning Specialization: coursera.org/verify/specialization/9G9RQCCJBHV4
