@@ -44,7 +44,7 @@ ChEMBL API -  PaDEL-Descriptor -  Molecular Fingerprints -  RDKit -  Cheminforma
 
 ### Resumo do histórico acadêmico
 
-**Formação**: PhD (em andamento) + 13 cursos especializados (IBM + DeepLearning.AI)
+**Formação**: PhD (em andamento) + 13 cursos especializados em ciência de dados (IBM + DeepLearning.AI)
 ***
 
 ###  Contato
