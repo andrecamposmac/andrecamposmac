@@ -67,5 +67,7 @@ Development of research in applied thermodynamics of monomolecular films.
 
 - **IBM Data Science Professional Certificate:** [Verify](https://coursera.org/verify/professional-cert/36TNZKTVR49C)  
 - **Machine Learning Specialization:** [Verify](https://coursera.org/verify/specialization/9G9RQCCJBHV4)
+- **SQL para Análise de Dados: Do básico ao avançado**
+  Instructor: Midori Toyota; Conclusion: 06/02/2023
 
 ---
