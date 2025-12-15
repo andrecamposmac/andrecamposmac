@@ -65,8 +65,8 @@ Development of research in applied thermodynamics of monomolecular films.
 
 ## Certificate Verification
 
-- **IBM Data Science Professional Certificate:** [Verify](https://coursera.org/verify/professional-cert/36TNZKTVR49C)  
-- **Machine Learning Specialization:** [Verify](https://coursera.org/verify/specialization/9G9RQCCJBHV4)
-- **SQL para Análise de Dados: Do básico ao avançado (UDEMY)** [Verify](https://www.udemy.com/certificate/UC-cf1b60f7-43d4-4a68-b7be-f077e8e268fd/)
+- **IBM Data Science Professional Certificate (Coursera):** [Verify](https://coursera.org/verify/professional-cert/36TNZKTVR49C)  
+- **Machine Learning Specialization (DeepLearning IA, Coursera):** [Verify](https://coursera.org/verify/specialization/9G9RQCCJBHV4)
+- **SQL para Análise de Dados: Do básico ao avançado (UDEMY):** [Verify](https://www.udemy.com/certificate/UC-cf1b60f7-43d4-4a68-b7be-f077e8e268fd/)
 
 ---
