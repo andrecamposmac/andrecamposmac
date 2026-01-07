@@ -81,6 +81,6 @@ Development of research in applied thermodynamics of monomolecular films.
 | 6 | [Bank Churn Prediction](https://github.com/andrecamposmac/Churn-predictor) | Customer Retention |
 | 7 | [Credit Card Fraud Detection](https://github.com/andrecamposmac/credit_fraud_detection) | Fraud Detection |
 | 8 | [Customer Segmentation K-Means](https://github.com/andrecamposmac/Segmentacao-de-clientes-com-K-Means) | Customer Clustering |
-| 9 | [Personal Loan Default Prediction](https://github.com/andrecamposmac/Limpeza-de-dados---Market-Campaign) | Credit Scoring |
+| 9 | [Personal Loan Default Prediction](https://github.com/andrecamposmac/Limpeza-de-dados---Market-Campaign) | Data Cleaning |
 
 ---
