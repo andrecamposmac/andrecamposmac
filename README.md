@@ -69,4 +69,17 @@ Development of research in applied thermodynamics of monomolecular films.
 - **Machine Learning Specialization (DeepLearning IA, Coursera):** [Verify](https://coursera.org/verify/specialization/9G9RQCCJBHV4)
 - **SQL para Análise de Dados: Do básico ao avançado (UDEMY):** [Verify](https://www.udemy.com/certificate/UC-cf1b60f7-43d4-4a68-b7be-f077e8e268fd/)
 
+## Projects in repository
+
+| # | Project | Main Area |
+|---|---------|-----------|
+| 1 | [Hands-On ML Exercises](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/collection_be982959-584c-405a-acb6-1f852895e2d1/ecc1b1a7-14e0-42f1-9013-57fbc58fcdfa/README.md) | Fundamentals [file:2] |
+| 2 | [Drug Discovery with ML](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/collection_be982959-584c-405a-acb6-1f852895e2d1/fea27f87-2b06-4a0a-9d15-5174d4aa7f7f/README%20(1).md) | Biochemistry [file:3] |
+| 3 | [Malaria CNN Classification](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/collection_be982959-584c-405a-acb6-1f852895e2d1/215210fe-dfdd-4b00-947c-114d94053c82/README%20(2).md) | Computer Vision [file:4] |
+| 4 | [Loan Default Prediction DL](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/collection_be982959-584c-405a-acb6-1f852895e2d1/26d3d999-f130-4ad1-9d20-63e02acbf781/README%20(3).md) | Finance DL [file:5] |
+| 5 | [Sales Forecasting LSTM](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/collection_be982959-584c-405a-acb6-1f852895e2d1/23c4a204-bf3e-4812-b678-a1d9a8d8c92f/README%20(4).md) | Time Series [file:6] |
+| 6 | [Bank Churn Prediction](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/collection_be982959-584c-405a-acb6-1f852895e2d1/732f085b-4496-4082-9e3f-ddf574281147/README%20(5).md) | Customer Retention [file:7] |
+| 7 | [Credit Card Fraud Detection](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/73677613/143f1b7a-25cb-447e-8a5f-307c1190a57f/README-1.md) | Fraud Detection [file:1] |
+| 8 | [Customer Segmentation K-Means](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/73677613/7b0df5e2-e99d-490d-b065-f9601fa9d51e/README-pt.md) | Customer Clustering [file:8] |
+| 9 | [Personal Loan Default Prediction](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/73677613/5d693fd8-48d9-493c-b37a-5702a5092688/README-pt%20(1).md) | Credit Scoring [file:9] |
 ---
