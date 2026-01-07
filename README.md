@@ -73,14 +73,14 @@ Development of research in applied thermodynamics of monomolecular films.
 
 | # | Project | Main Area | GitHub Repo |
 |---|---------|-----------|-------------|
-| 1 | [Hands-On ML Exercises](https://github.com/andrecamposmac/handson-ml) | Fundamentals | [Link](https://github.com/andrecamposmac/handson-ml) |
-| 2 | [Drug Discovery HepG2](https://github.com/andrecamposmac/Avalicao_de_compostos_bioativos_hepg2) | Biochemistry | [Link](https://github.com/andrecamposmac/Avalicao_de_compostos_bioativos_hepg2) |
-| 3 | [Malaria CNN Classification](https://github.com/andrecamposmac/CNN-classificacao_de_imagem) | Computer Vision | [Link](https://github.com/andrecamposmac/CNN-classificacao_de_imagem) |
-| 4 | [Loan Default Prediction DL](https://github.com/andrecamposmac/ANN-emprestimos) | Finance DL | [Link](https://github.com/andrecamposmac/ANN-emprestimos) |
-| 5 | [Sales Forecasting LSTM](https://github.com/andrecamposmac/RNN-Pricing_forecast) | Time Series | [Link](https://github.com/andrecamposmac/RNN-Pricing_forecast) |
-| 6 | [Bank Churn Prediction](https://github.com/andrecamposmac/Churn-predictor) | Customer Retention | [Link](https://github.com/andrecamposmac/Churn-predictor)  |
-| 7 | [Credit Card Fraud Detection](https://github.com/andrecamposmac/credit_fraud_detection) | Fraud Detection | [Link](https://github.com/andrecamposmac/credit_fraud_detection) |
-| 8 | [Customer Segmentation K-Means](https://github.com/andrecamposmac/Segmentacao-de-clientes-com-K-Means) | Customer Clustering | [Link](https://github.com/andrecamposmac/Segmentacao-de-clientes-com-K-Means) |
-| 9 | [Personal Loan Default Prediction](https://github.com/andrecamposmac/Limpeza-de-dados---Market-Campaign) | Credit Scoring | [Link](https://github.com/andrecamposmac/Limpeza-de-dados---Market-Campaign) |
+| 1 | [Hands-On ML Exercises](https://github.com/andrecamposmac/handson-ml) | Fundamentals |
+| 2 | [Drug Discovery HepG2](https://github.com/andrecamposmac/Avalicao_de_compostos_bioativos_hepg2) | Biochemistry |
+| 3 | [Malaria CNN Classification](https://github.com/andrecamposmac/CNN-classificacao_de_imagem) | Computer Vision |
+| 4 | [Loan Default Prediction DL](https://github.com/andrecamposmac/ANN-emprestimos) | Finance DL |
+| 5 | [Sales Forecasting LSTM](https://github.com/andrecamposmac/RNN-Pricing_forecast) | Time Series |
+| 6 | [Bank Churn Prediction](https://github.com/andrecamposmac/Churn-predictor) | Customer Retention |
+| 7 | [Credit Card Fraud Detection](https://github.com/andrecamposmac/credit_fraud_detection) | Fraud Detection |
+| 8 | [Customer Segmentation K-Means](https://github.com/andrecamposmac/Segmentacao-de-clientes-com-K-Means) | Customer Clustering |
+| 9 | [Personal Loan Default Prediction](https://github.com/andrecamposmac/Limpeza-de-dados---Market-Campaign) | Credit Scoring |
 
 ---
