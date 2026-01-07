@@ -71,8 +71,8 @@ Development of research in applied thermodynamics of monomolecular films.
 
 ## Portfolio
 
-| # | Project | Main Area | GitHub Repo |
-|---|---------|-----------|-------------|
+| # | Project | Main Area |
+|---|---------|-----------|
 | 1 | [Hands-On ML Exercises](https://github.com/andrecamposmac/handson-ml) | Fundamentals |
 | 2 | [Drug Discovery HepG2](https://github.com/andrecamposmac/Avalicao_de_compostos_bioativos_hepg2) | Biochemistry |
 | 3 | [Malaria CNN Classification](https://github.com/andrecamposmac/CNN-classificacao_de_imagem) | Computer Vision |
